@@ -221,4 +221,4 @@ University of Economics and Law (UEL)
 - Data Science
 - Financial Mathematics
 - Risk Analytics
-- Operational Researc
+- Operational Research
